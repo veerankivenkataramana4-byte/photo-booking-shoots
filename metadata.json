@@ -1,0 +1,6 @@
+{
+  "name": "ShootBook – Event Photography & Videography Platform",
+  "description": "ShootBook is a premium pre-booking platform for professional photographers, cinematographers, and videographers across weddings, birthdays, corporate, and personal events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
